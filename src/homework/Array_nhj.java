@@ -2,7 +2,7 @@ package homework;
 
 import java.util.Scanner;
 
-public class Array_nhj {
+public class Array_nhj{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
