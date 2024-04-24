@@ -25,7 +25,7 @@ public class Array_cy {
 //	
 		for (int i = 0; i < foodMenu.length; i++) {
 			foodMenu[i] = scanner.next();
-			System.out.println("오늘 점메추해줘 !!!!! :" + foodMenu[i]);
+			System.out.println("오늘 점메추해줘!!! :" + foodMenu[i]);
 		}
 		
 		scanner.close();
