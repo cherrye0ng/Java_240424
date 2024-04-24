@@ -25,7 +25,7 @@ public class Array_nhj {
 //		System.out.println("먹고싶은 메뉴는 " + foodstringArray[2] + "입니다.");
 //		System.out.println("먹고싶은 메뉴는 " + foodstringArray[3] + "입니다.");
 //		System.out.println("먹고싶은 메뉴는 " + foodstringArray[4] + "입니다.");
-		
+		//asdfsdf
 		
 		
 	}
